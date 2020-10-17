@@ -166,5 +166,4 @@ style={styleObj} // 并不是必须要两个大括号，第一个才是语法糖
 
 **图片**
 
-![](./public/react.PNG)
-
+![](http://wx4.sinaimg.cn/mw1024/007UMEcEgy1gjsah2aaqpj30v60dhwf2.jpg)
